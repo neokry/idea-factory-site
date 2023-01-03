@@ -1,3 +1,3 @@
-# My DAO Governance
+# The Idea Factory
 
-Edit your voting description in the `templates/vote/description.md` file
+Idea Factory members govern the DAO. Idea Factory members can vote on proposals or delegate their vote to a third party.
